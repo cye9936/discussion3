@@ -1,0 +1,39 @@
+body {
+    background-color: #D9E4FF;
+    color: black;
+}
+
+h1 {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+}
+
+h3 {
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rebeccapurple;
+}
+
+p {
+    line-height: 30px;
+}
+
+img,
+video {
+    border: 5px solid #F57600;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 50px;
+}
